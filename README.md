@@ -31,3 +31,6 @@ The program allows users to input information through an inquirer prompt, genera
 
 https://github.com/FaustCelaj/SVG-Generator/assets/149631014/2d7f3509-5047-4ad5-838e-97937efb3789
 
+link for video
+https://drive.google.com/file/d/1VaznBmYivOEIA8CIrixn4XzFcTO7_3Y-/view
+
